@@ -1,0 +1,196 @@
+body{
+  font-family: "Montserrat";
+}
+/* Title */
+
+.inheader{
+font-family: 'Montez', cursive;
+  font-size: 3rem;
+  line-height: 5rem;
+
+}
+#title{
+  background-color:#ff4c68;
+  color: #fff;
+  padding-bottom: 1px;
+}
+
+
+.fluid-container{
+  padding: 5% 15% 5%;
+  position: relative;
+
+}
+
+
+/* Navigation bar */
+.navbar{
+  padding-bottom: 2.5rem;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 5rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.tanish{
+  line-height: 5rem;
+}
+.nav-link{
+  font-size: 1.3rem;
+  font-family: "Montserrat-light";
+}
+.download-btn{
+  margin: 150px 12px;
+
+}
+p{
+  color: #8f8f8f;
+
+}
+h3
+{
+font-family: 'Bebas Neue';
+font-weight: bold;
+
+}
+h2
+{
+  font-family:'Font Awesome 5 Pro';
+  font-size: 10rem;
+  line-height: 1.5;
+
+}
+/* Title image */
+
+.title-image{
+
+   position:absolute;
+    transform: rotate(25deg);
+    position: absolute;
+
+    width: 60%;
+
+
+
+}
+
+/* feature section */
+#features{
+  text-align: center;
+
+    padding: 7% 15%;
+
+    background-color: #fff;
+position: relative;
+z-index: 1;
+
+}
+.feature-box{
+  text-align: center;
+padding: 5%;
+}
+
+.fas{
+color: #ef1872;
+padding: 20px;
+}
+.fas:hover{
+  color: #EB92BE;
+}
+
+
+
+/* testimonial section */
+
+#testimonials{
+
+  padding: 7% 10%;
+  text-align: center;
+  background-color: #ff4c68;
+  color: #fff;
+
+}
+.testi-image{
+  width: 15%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.emp{
+  font-size: 1.5rem;
+}
+
+
+#press{
+    background-color: #ff4c68;
+    text-align: center;
+    margin: ;
+    padding-bottom: 3%;
+    line-height: 20px;
+
+}
+.prs{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+/*
+cta section */
+
+
+#cta{
+  background-color: #ff4c68;
+  color: #fff;
+  padding: 3% 7%;
+  text-align: center;
+}
+
+.cta-h{
+font-family: "Montserrat-bold";
+font-size: 3.5rem;
+margin: auto;
+text-align: center;
+line-height:1.5rem;
+}
+
+
+#footer{
+   padding;  10px 10px;
+  text-align: center;
+}
+
+@media  (max-width:976px){
+  #title{
+    text-align: center;
+  }
+.title-image{
+  position: static;
+  transform: rotate(0);
+
+}
+a{
+  color: #11999E;
+  font-size: 20px;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+}
+.copyright{
+  color:#EAF6F6;
+  font-size: 0.75em;
+  padding: 20px 0;
+}
+.pricing-col{
+padding: 3% 2%;
+}
+.last-heading{
+font-family: 'Bebas Neue', cursive;
+  font-size: 5.5rem;
+}
