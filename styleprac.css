@@ -1,0 +1,91 @@
+body{
+  margin: 0 0;   /* to remove the gap between the pages*/
+  text-align:center;
+  color: #40514E;
+
+}
+h1{
+font-size: 90px;
+color: #66BFBF;
+font-weight: normal;
+margin: 70px auto;
+  font-family: 'Playfair Display', serif;
+  font-family: 'Sacramento', cursive;
+  /*in general case the margin of the h1 is absolutely there if u want to remove the margin from the upper part too u have to do it externally*/
+}
+h2{
+  font-size: 1.5rem;
+  color:grey;
+  font-weight: normal;
+  line-height: 110px;
+
+}
+.myskillshead{
+  color: grey;
+}
+.dot{
+  line-height: 200px;
+}
+.header{
+
+  background-color:#E4D8DC;
+
+}
+.hro
+{
+  border-top: 15px dotted;
+  width: 11%;
+  color: #C9CCD5;
+
+}
+.footer{
+  background-color:#C9CCD5;
+  width: 100%;
+  height: 60%;
+  text-align:center;
+}
+.skill
+{
+float: left;
+margin-right: 30px;
+margin-bottom: 30px;
+  width: 25%;
+}
+.dat{
+  width: 25%;
+  float: right;                      /*here float gives us option that the text surrounding the image will                    on which side we want*/
+  margin-right: 30px;
+}
+h3{
+  font-size: 1.5rem;
+  color: #11999E;
+  font-weight: normal;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+
+  line-height: 2;   /*the margin is according to the clock wise- top, left ,bottom, right */
+}
+
+.p1
+{
+  color: #11999E;
+}
+.p2
+{
+  color:  #11999E;
+}
+
+
+
+.cloud1{
+
+margin-right: 10px}
+.middle-container{
+
+}
+.bottom-container{
+
+}
